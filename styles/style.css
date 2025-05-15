@@ -1,0 +1,29 @@
+h1 {
+	font-size: 30px;
+	color: purple;
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
+	line-height: 50px;
+}
+
+h2 {
+	font-size: 30px;
+	color: coral;
+	font-family: "Underdog", system-ui;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 30px;
+	font-family: "ALKDots", sans-serif;
+	color: brown;
+}
+
+
+p {
+	width: 100%;
+	text-indent: 30%;
+	line-height: 40px;
+/*	letter-spacing: 1px;*/
+	text-transform: lowercase;
+}
